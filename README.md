@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pyc28
 - 👀 I’m interested in developing cool things with python
-- 🌱 I’m currently learning blockchain development
 - 📫 Contact me at sayhi@pycoder28.anonaddy.com
 
 <!---
