@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pyc28
 - 👀 I’m interested in developing cool things with python
-- 📫 Contact me at sayhi@pycoder28.anonaddy.com
+- 📫 Contact me at pycoder28@gmail.com
 
 <!---
 pyc28/pyc28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
