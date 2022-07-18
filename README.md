@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyc28
+- 👋 Hi, I’m @PyCoder
 - 👀 I’m interested in developing cool things with python
 - 📫 Contact me at pycoder28@gmail.com
 
